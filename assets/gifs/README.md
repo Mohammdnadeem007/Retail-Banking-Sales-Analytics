@@ -1,1 +1,3 @@
+# GIFs
 
+Project demo animations.
